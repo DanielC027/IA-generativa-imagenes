@@ -22,6 +22,9 @@ Si se han realizado modificaciones en el modelo, estas no implican el respaldo d
 
 ## Imagenes generadas por el proyecto
 
+### Interfaz
+![EjemploApp](EjemploApp.png)
+
 ### 1
 ![Ejemplo](image_1.png)
 
